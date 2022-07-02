@@ -1,1 +1,1 @@
-# coding-project-template
+# Final project IBM AI course
